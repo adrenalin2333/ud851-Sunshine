@@ -31,7 +31,7 @@
     <!--TODO (5) Remove all attributes with the word constraint in them-->
     <!--TODO (6) Remove the default text from the TextView-->
     <TextView
-        android:id="@+id/text_view"
+        
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Hello World!"
@@ -39,4 +39,4 @@
         app:layout_constraintLeft_toLeftOf="@+id/activity_main"
         app:layout_constraintRight_toRightOf="@+id/activity_main"
         app:layout_constraintTop_toTopOf="@+id/activity_main" />
-</android.support.constraint.ConstraintLayout>
+</android.support.Frame.FrameLayout>
